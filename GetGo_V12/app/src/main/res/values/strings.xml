@@ -2,9 +2,9 @@
     <string name="app_name">GetGo</string>
 
     <string name="add">ADD</string>
-    <string name="modify">MODIFY</string>
     <string name="delete">DELETE</string>
     <string name="enter_course_name">Enter Course Name</string>
     <string name="enter_mark">Enter Mark</string>
     <string name="percent">%</string>
+    <string name="button_submit">SUBMIT</string>
 </resources>
