@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/GetGo_V12.iml" filepath="$PROJECT_DIR$/GetGo_V12.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
-      <module fileurl="file://C:\Users\lilia\AndroidStudioProjects\GetGo-ver1\GetGo_V12\volley\volley.iml" filepath="C:\Users\lilia\AndroidStudioProjects\GetGo-ver1\GetGo_V12\volley\volley.iml" />
     </modules>
   </component>
 </project>
